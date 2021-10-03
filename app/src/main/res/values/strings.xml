@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IndiaGroupAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="horoscopes_text">Read your daily horoscopes based on your sunsign, select your zodiac sign and give the right start to your day.</string>
+    <string name="astrolger_text">Leading astrologer of india are just a phone call away. Our panel
+of astrologers not just provides solutions to your life problems but also guide
+you so that you can take the right path towards growth and prosperity. </string>
+
+    <string name="heading_text">""There is no better boat than \n
+  horoscope to help a man \n
+  cross over the sea of life.""
+
+  </string>
+    <string name="report_text">Astrology report or what is commonly known as Horoscope report is basically an in depth
+look at your birth chart. Horoscope report will look at various planetary positions in your birth
+charts and also derive relationships and angle to understand your personality and trait.</string>
+    <string name="quesion_text">Seek accurate answers to your life problems and guide you towards the right path.
+Whether the problem is related to love, self, life, business, money, education
+or work, our astrologers will do an in depth study of your birth chart provide personalized
+response along with remedies.</string>
+</resources>

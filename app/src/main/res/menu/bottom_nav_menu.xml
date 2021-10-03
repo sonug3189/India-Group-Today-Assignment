@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/talkastrologer"
+        android:title="Talk To Astrologer"
+        android:icon="@drawable/talk"/>
+
+    <item
+        android:id="@+id/ask"
+        android:title="Ask Questions"
+        android:icon="@drawable/ask"/>
+    <item
+        android:id="@+id/reports"
+        android:title="Reports"
+        android:icon="@drawable/reports"/>
+</menu>
